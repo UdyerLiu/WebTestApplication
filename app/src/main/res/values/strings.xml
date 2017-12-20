@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebTestApplication</string>
+    <string name="second_page_mark">This is the second page.</string>
+</resources>
