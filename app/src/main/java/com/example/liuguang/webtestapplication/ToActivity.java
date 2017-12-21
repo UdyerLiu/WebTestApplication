@@ -1,9 +1,10 @@
 package com.example.liuguang.webtestapplication;
 
+import android.app.Activity;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class ToActivity extends AppCompatActivity {
+public class ToActivity extends BaseActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
